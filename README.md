@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 hey, i'm madhuparna
 
-<!--
-**madhuparnabiswas/madhuparnabiswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i’m a cs undergrad focused on building a strong foundation in tech.✨
+right now, i’m working on web development and data structures & algorithms, with a focus on actually building projects and improving problem-solving skills.
 
-Here are some ideas to get you started:
+i like understanding how stuff works, sometimes a bit too much — which means i overthink, redo things, and chase cleaner solutions than necessary. but that’s also how i improve.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚒️ what i'm doing currently
+- building web projects (and trying to make them look clean, not just functional)
+- learning data structures & algorithms in c++
+- exploring different fields like ai/ml, cybersecurity, and blockchain to figure out what actually clicks
